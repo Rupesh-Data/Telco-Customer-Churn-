@@ -1,21 +1,20 @@
-Telco Customer Churn Analysis
 Project Description
-This project focuses on a comprehensive analysis of customer churn within a telecommunications company. The primary goal was to perform an in-depth Exploratory Data Analysis (EDA) on a customer dataset to identify and understand the key drivers of churn. By examining customer demographics, service usage, contract details, and payment methods, the analysis aimed to pinpoint at-risk segments and provide actionable insights to enhance customer retention strategies.
+This project conducts an Exploratory Data Analysis (EDA) on a dataset of free PC games. The main objective was to explore the dataset, understand its structure, and identify key characteristics of the games, such as genre, platform, and release trends. The analysis involved data cleaning, checking for missing values, and identifying duplicates to ensure data quality before proceeding with visualizations.
 
 Technologies Used
-Python: The foundational programming language for all data processing and analysis tasks.
+Python: The primary programming language used for the analysis.
 
-Pandas: Leveraged for efficient data manipulation, cleaning, and preparation, including handling missing values and data type conversions.
+Pandas: A library essential for loading, manipulating, and cleaning the dataset.
 
-Matplotlib & Seaborn: Utilized for creating professional and informative data visualizations. These libraries were instrumental in generating plots that effectively communicated complex relationships between variables and churn, such as churn rates by contract type, tenure, and payment method.
+Matplotlib & Seaborn: Libraries used for data visualization to create charts and graphs that represent the distribution of genres, platforms, and other key features of the free PC games dataset.
 
 Key Outcomes & Insights
-The analysis successfully uncovered several critical insights into customer churn, which are essential for strategic decision-making:
+The analysis of the "Free PC Games Dataset" provided a clear understanding of its contents. The key findings from the initial data exploration and cleaning process are as follows:
 
-Contract and Tenure Impact: Customers with month-to-month contracts were found to be significantly more likely to churn. In contrast, those with long-term contracts demonstrated a higher degree of loyalty. Furthermore, the risk of churn is highest during a customer’s first 10 months of service.
+Dataset Integrity: The dataset, consisting of 407 entries and 9 columns, was found to be clean. It contained no missing values and no duplicated records, which simplifies the analysis and ensures the reliability of the findings.
 
-Service and Payment Methods: The analysis revealed a disproportionately high churn rate among customers using fiber optic internet service and those who make payments via electronic checks. These findings suggest potential service quality issues or a need for a more robust and secure payment system.
+Structure: The dataset included columns such as id, title, description, genre, platform, publisher, developer, and release_date.
 
-Financial and Demographic Factors: A clear correlation was identified between higher monthly charges and an increased likelihood of churn. Additionally, senior citizens showed a slightly higher tendency to leave the company compared to other age groups.
+Data Cleaning: Despite some hyphens found in several string columns (title, description, url, publisher, developer, release_date), no specific data cleaning was deemed necessary as these were not considered missing values or unwanted special characters.
 
-The project culminated in a data-driven report and a set of visualizations that provide a clear roadmap for the company to address churn proactively. The insights serve as a strong foundation for developing targeted retention programs and improving overall customer satisfaction.
+This initial project phase established a solid foundation for further, more in-depth data visualization and analysis to uncover trends in the free PC gaming market.
