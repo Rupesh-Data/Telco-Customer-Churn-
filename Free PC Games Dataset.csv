@@ -1,0 +1,436 @@
+id,title,description,url,genre,platform,publisher,developer,release_date
+2,World of Tanks,"If you like blowing up tanks, with a quick and intense game style you will love this game!",https://www.freetogame.com/open/world-of-tanks,Shooter,PC (Windows),Wargaming,Wargaming,12/04/11
+3,Warframe,A cooperative free-to-play third person online action shooter set in an stunning sci-fi world. ,https://www.freetogame.com/open/warframe,Shooter,PC (Windows),Digital Extremes,Digital Extremes,25/03/13
+4,CRSED: F.O.A.D.,Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition),https://www.freetogame.com/open/crsed,Shooter,PC (Windows),Gaijin Distribution KFT,Darkflow Software,12/12/19
+5,Crossout,A post-apocalyptic MMO vehicle combat game! ,https://www.freetogame.com/open/crossout,Shooter,PC (Windows),Targem,Gaijin,30/05/17
+6,Blade and Soul,A free-to-play martial arts MMORPG that tasks players with learning combination attacks.,https://www.freetogame.com/open/blade-and-soul,MMORPG,PC (Windows),NCSoft,NCSoft,19/01/16
+7,Armored Warfare,A modern team-based MMO tank game from Obsidian Entertainment.,https://www.freetogame.com/open/armored-warfare,Shooter,PC (Windows),My.com (Mail.ru Group),Obsidian Entertainment,08/10/15
+8,Trove,A free to play Sandbox massively multiplayer online role-playing game! ,https://www.freetogame.com/open/trove,MMORPG,PC (Windows),Trion Worlds,Trion Worlds,09/07/15
+9,World of Warships,A 3D free to play naval action-themed MMO from the creators of World of Tanks! ,https://www.freetogame.com/open/world-of-warships,Shooter,PC (Windows),Wargaming,Wargaming,02/07/15
+10,ArcheAge,"A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds.",https://www.freetogame.com/open/archeage,MMORPG,PC (Windows),Kakao Games,XL Games,04/09/14
+11,Neverwinter,A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ,https://www.freetogame.com/open/neverwinter,MMORPG,PC (Windows),Perfect World Entertainment,Cryptic Studios,06/12/13
+12,War Thunder,A MMO shooter that puts you in command of hundreds of the finest combat vehicles of World War II.,https://www.freetogame.com/open/war-thunder,Shooter,PC (Windows),Gaijin Entertainment,Gaijin Entertainment,15/08/13
+13,Guild Wars 2,"A free-to-play MMORPG, the follow-up to ArenaNet's popular Guild Wars. ",https://www.freetogame.com/open/guild-wars-2,MMORPG,PC (Windows),NCsoft,ArenaNet,28/08/12
+14,Star Trek Online,"A free-to-play, 3D, Sci-Fi MMORPG based on the popular Star Trek series.",https://www.freetogame.com/open/star-trek-online,MMORPG,PC (Windows),Perfect World Entertainment, Cryptic Studios,02/02/10
+15,Crossfire,A first person tactical shooter with a huge selection of game modes!,https://www.freetogame.com/open/crossfire,Shooter,PC (Windows),Neowiz Games,SmileGate,03/05/07
+16,Roblox,A free to play sandbox MMO with lots of creation options.,https://www.freetogame.com/open/roblox,MMO,PC (Windows),Roblox Corporation,Roblox Corporation,22/12/06
+17,Entropia Universe,A 3D MMO Multi Virtual World Real Cash Economy Experience with RPG elements. ,https://www.freetogame.com/open/entropia-universe,MMORPG,PC (Windows),MindArk,MindArk,30/01/03
+18,Second Life,A free to play 3D online virtual world with a huge reputation! ,https://www.freetogame.com/open/second-life,Social,PC (Windows),Linden Lab,Linden Lab,23/06/03
+19,Minion Masters,A free-to-play strategic minion brawler from Danish developer Betadwarf. ,https://www.freetogame.com/open/minion-masters,Card Game,PC (Windows),Betadwarf,Betadwarf,24/05/19
+20,Splitgate: Arena Warfare,A free-to-play multiplayer shooter developed and published by 1047 games. ,https://www.freetogame.com/open/splitgate-arena-warfare,Shooter,PC (Windows),1047 Games,1047 Games,22/05/19
+21,Destiny 2,A free-to-play multiplayer Sci-Fi MMOFPS from Bungie.,https://www.freetogame.com/open/destiny-2,Shooter,PC (Windows),Bungie,Bungie,01/10/19
+22,Wild Terra Online,A medieval sandbox MMO designed with core players in mind. ,https://www.freetogame.com/open/wild-terra-online,MMORPG,PC (Windows),Juvty Worlds Ltd.,Juvty Worlds Ltd.,18/12/17
+23,Apex Legends,A free-to-play strategic battle royale game featuring 60-player matches and team-based play. ,https://www.freetogame.com/open/apex-legends,Shooter,PC (Windows),Electronic Arts,Electronic Arts,04/02/19
+24,Counter-Strike: Global Offensive,The popular multiplayer shooter from Valve. ,https://www.freetogame.com/open/counter-strike-global-offensive,Shooter,PC (Windows),Valve,"Valve, Hidden Path Entertainment",21/08/12
+28,Spacelords,A free-to-play 4v1 sci-fi shooter. ,https://www.freetogame.com/open/spacelords,Shooter,PC (Windows), MercurySteam Entertainment,MercurySteam,22/09/18
+30,Quake Champions,"Quake Champions is a callback to the early days of the Quake IP, featuring the fast-paced action that made the IP popular over two decades ago. ",https://www.freetogame.com/open/quake-champions,Shooter,PC (Windows),Bethesda Softworks,id Software,22/08/17
+31,Cosmos Invictus,A strategic collectible card game developed and published by Pegnio Ltd. ,https://www.freetogame.com/open/cosmos-invictus,Card Game,PC (Windows),Pegnio Ltd,Pegnio Ltd,27/06/18
+39,Darwin Project,A free-to-play 10-player battle royale game set just prior to an impeding ice age.,https://www.freetogame.com/open/darwin-project,Shooter,PC (Windows),Scavengers Studio,Scavengers Studio,14/01/20
+42,Spellsworn,A free-to-play arena battle game developed and published by Frogsong Studios AB. ,https://www.freetogame.com/open/spellsworn,MOBA,PC (Windows),Frogsong Studios AB,Frogsong Studios AB,13/03/18
+43,Z1 Battle Royale,A highly competitive free-to-play battle royale shooter.,https://www.freetogame.com/open/z1-battle-royale,Shooter,PC (Windows),Daybreak Game Company,Daybreak Game Company,28/02/18
+44,Tale Of Toast,"A free-to-play open world MMO inspired by classic, core MMOs. ",https://www.freetogame.com/open/tale-of-toast,MMORPG,PC (Windows),Toasty Leaf AB,Toasty Leaf AB,23/02/18
+45,SoulWorker,A free to play anime action MMO based on the popular anime of the same title. ,https://www.freetogame.com/open/soulworker,MMORPG,PC (Windows),G・O・P,VALOFE,27/02/18
+47,Bombtag,A free-to-play multiplayer Bomberman-inspired game.,https://www.freetogame.com/open/bombtag,Strategy,PC (Windows),David Schneider,David Schneider,12/02/18
+48,Ironsight,A free-to-play futuristic shooter published by Aeria Games. ,https://www.freetogame.com/open/ironsight,Shooter,PC (Windows),WipleGames Inc.,WipleGames Inc.,01/02/18
+49,Dead Maze,A free-to-play 2D isometric MMO full of zombies. ,https://www.freetogame.com/open/dead-maze,MMORPG,PC (Windows),801,801,13/02/18
+51,Global Adventures,A free-to-play MMORPG developed by PixelSoft and Published by SubaGames. ,https://www.freetogame.com/open/global-adventures,MMORPG,PC (Windows),SubaGames,PixelSoft,29/12/17
+52,Closers,"A free-to-play episodic anime beat-em-up developed 
+by Naddic Games and published by 
+En Masse Entertainment. ",https://www.freetogame.com/open/closers,MMORPG,PC (Windows),En Masse Entertainment,Naddic Games,19/12/17
+55,Deceit,"A free-to-play multiplayer first-person shooter set 
+in an asylum! ",https://www.freetogame.com/open/deceit,Shooter,PC (Windows),Automaton,Automaton,03/05/17
+56,Grimoire: Manastorm,A free-to-play multiplayer FPS... with wizards. ,https://www.freetogame.com/open/grimoire-manastorm,Shooter,PC (Windows),Omniconnection,Omniconnection,04/02/15
+57,Fortnite,"A free-to-play, standalone mode of Epic Game's Fortnite. ",https://www.freetogame.com/open/fortnite-battle-royale,Shooter,PC (Windows),Epic Games,Epic Games,26/09/17
+58,The Ultimatest Battle,A free-to-play 2D platform game that pits two teams of players against each other in a variety of modes. ,https://www.freetogame.com/open/the-ultimatest-battle,Fighting,PC (Windows),Ediogames,Ediogames,12/09/17
+59,Insidia,"A free-to-play tactical, turn-based dueling game developed and published by Bad Seed. ",https://www.freetogame.com/open/insidia,Strategy,PC (Windows),Bad Seed,Bad Seed,07/09/17
+60,Brink,"A free-to-play first-person-shoot developed by Splash 
+Damage and published by Bethesda Softworks. ",https://www.freetogame.com/open/brink,Shooter,PC (Windows),Bethesda Softworks,Splash Damage,09/05/11
+61,Black Squad,A free-to-play military FPS developed by NS STUDIO and published by NEOWIZ.,https://www.freetogame.com/open/black-squad,Shooter,PC (Windows),NEOWIZ,NS Studio,28/07/17
+63,Argo,A tactical first-person shooter from the Arma 3 developer.,https://www.freetogame.com/open/argo,Shooter,PC (Windows),Bohemia Interactive,Bohemia Interactive,22/06/17
+64,Secret World Legends,A free-to-play reboot of The Secret World. ,https://www.freetogame.com/open/secret-world-legends,MMORPG,PC (Windows),Funcom,Funcom,31/07/17
+65,Pixel Worlds,"A free-to-play, side-scroller MMO sandbox game developed and published by Kukouri Mobile Entertainment. ",https://www.freetogame.com/open/pixel-worlds,MMORPG,PC (Windows),Kukouri Mobile Entertainment ,Kukouri Mobile Entertainment ,09/06/17
+66,Gwent: The Witcher Card Game,A free-to-play card game based on CD Projekt Red's popular Witcher franchise. ,https://www.freetogame.com/open/gwent,Card Game,PC (Windows),CD Projekt Red,CD Projekt Red,24/05/17
+67,Awesomenauts,A 3v3 2D battle arena Developed by Ronimo games.,https://www.freetogame.com/open/awesomenauts,MOBA,PC (Windows),Ronimo Games,Ronimo Games,24/05/17
+68,Dreadnought,A free-to-play combat flight simulator developed by Yager Development and published by Grey Box. ,https://www.freetogame.com/open/dreadnought,Shooter,PC (Windows),Grey Box,Yager Development,14/10/18
+69,Cabals: Card Blitz,A free-to-play game developed by Kyy Games and published by BISBOG SA. ,https://www.freetogame.com/open/cabals-card-blitz,Card Game,PC (Windows),BISBOG SA,Kyy Games,08/02/17
+70,Alien Swarm: Reactive Drop,A free-to-play top-down tactical co-op expansion on the Alien swarm game and Source SDK.,https://www.freetogame.com/open/alien-swarm-reactive-drop,Shooter,PC (Windows),Reactive Drop,Reactive Drop,20/04/17
+71,Catan Universe,A free-to-play strategy game based on the classic board and card games. ,https://www.freetogame.com/open/catan-universe,Card Game,PC (Windows),United Soft Media,Exozet,25/04/17
+72,Krosmaga,"A free-to-play CCG/tower defense hybrid developed 
+by Ankama Studio and published by 
+Ankama Games. ",https://www.freetogame.com/open/krosmaga,Card Game,PC (Windows),Ankama Games,Ankama Studio,12/04/17
+77,Revelation Online,A free-to-play fantasy MMO developed by NetEase and published by My.com. ,https://www.freetogame.com/open/revelation-online,MMORPG,PC (Windows),My.com,NetEase,06/03/17
+82,Line of Sight,"Free FPS game described as ""Bioshock meets Call of Duty""! ",https://www.freetogame.com/open/line-of-sight,Shooter,PC (Windows),BlackSpot Entertainment,BlackSpot Entertainment,31/01/17
+85,Infestation: The New Z,"A re-work of the open world zombie shooter game Infestation: Survivor Stories (or as it was formerly known ""The War Z"").",https://www.freetogame.com/open/infestation-new-z,Shooter,PC (Windows),OP Productions LLC,Fredaikis AB,22/11/16
+87,MU Legend,A free-to-play MMORPG developed by Webzen and the followup to MU Online. ,https://www.freetogame.com/open/mu-legend,MMORPG,PC (Windows),VALOFE,VALOFE,23/03/17
+88,Shadowverse,A free-to-play strategic CCG developed and published by Cygamesm the creators of Rage of Bahamut and Granblu Fantasy. ,https://www.freetogame.com/open/shadowverse,Card Game,PC (Windows),"Cygames, Inc.","Cygames, Inc.",28/10/16
+89,AdventureQuest 3D,A free to play cross-platform MMORPG from the creators of the original 2D RPG game.,https://www.freetogame.com/open/adventurequest-3d,MMORPG,PC (Windows),Artix Entertainment,Artix Entertainment,19/10/16
+91,Eternal,"A strategy card game designed to take the best elements of Magic the Gathering, Hearthstone, and Hex and combine them all into one game.",https://www.freetogame.com/open/eternal,Card Game,PC (Windows),Dire Wolf Digital,Dire Wolf Digital,15/11/18
+92,One Tower,"A unique 1v1 MOBA known as a ""micro-moba"" developed and published by SkyReacher following a successful Kickstarter. ",https://www.freetogame.com/open/one-tower,MOBA,PC (Windows),SkyReacher Entertainment,SkyReacher Entertainment,11/11/16
+93,Riding Club Championships,An online competitive horse riding game inspired by traditional equestrian disciplines. ,https://www.freetogame.com/open/riding-club-championships,Racing,PC (Windows),Artplant,Artplant,27/09/16
+94,Battlerite,A free-to-play team arena brawler developed by Stunlock Studios. Players play as one of several available champions on teams in 2v2 or 3v3 matches. ,https://www.freetogame.com/open/battlerite,MOBA,PC (Windows),Stunlock Studios,Stunlock Studios,21/09/16
+95,Paladins,"A free-to-play team-based shooter developed and published by Hi-Rez Games, the creators of SMITE. ",https://www.freetogame.com/open/paladins,Shooter,PC (Windows),Hi-Rez Studios,Hi-Rez Studios,16/09/16
+99,Star Crusade,A free-to-play sci-fi themed collectable card game developed and published by ZiMAD inc. ,https://www.freetogame.com/open/star-crusade,Card Game,PC (Windows),"ZiMAD, Inc.","ZiMAD, Inc.",08/09/16
+102,The Elder Scrolls: Legends,A free-to-play CCG based on The Elder Scrolls franchise. ,https://www.freetogame.com/open/elder-scrolls-legends,Card Game,PC (Windows),Bethesda Softworks,Bethesda Softworks,04/08/16
+104,Fallout Shelter,A free-to-play simulation game based on Bethesda Game Studios' popular Fallout franchise. ,https://www.freetogame.com/open/fallout-shelter,Strategy,PC (Windows),Bethesda Game Studios,Bethesda Game Studios,14/06/15
+106,Riders of Icarus,"A free-to-play action MMORPG featuring mounted, in-air combat. ",https://www.freetogame.com/open/riders-of-icarus,MMORPG,PC (Windows),VALOFE,WeMade,06/07/16
+108,Zula,A free-to-play online FPS developed and published by IDC/Games. ,https://www.freetogame.com/open/zula,Shooter,PC (Windows),IDC/Games,IDC/Games,23/06/16
+109,LuckCatchers,A free-to-play sandbox sim based on the novels of fantasy and steam-punk author A. Pehov.,https://www.freetogame.com/open/luckcatchers,MMORPG,PC (Windows),DiP Online,DiP Online,15/06/16
+110,UFO Online: Invasion,"A free-to-play post-apocalyptic, turn-based tactical combat 
+MMO developed by Bad Pixel. ",https://www.freetogame.com/open/ufo-online-invasion,MMORPG,PC (Windows),Bad Pixel,Bad Pixel,08/06/16
+112,Weapons Of Mythology,A 3D free-to-play fantasy MMORPG published by IDC/Games. ,https://www.freetogame.com/open/weapons-of-mythology,MMORPG,PC (Windows),IDC/Games,Gamemag,07/06/16
+116,Tree of Savior,"A fantasy 3D MMORPG with a massive freedom of choice, cute looking characters and a distinct art style. ",https://www.freetogame.com/open/tree-of-savior,MMORPG,PC (Windows),IMC Games,IMC Games,10/05/16
+117,Astral Heroes,A free-to-play collectable card game from the creators of Astral Masters. ,https://www.freetogame.com/open/astral-heroes,Card Game,PC (Windows),Apus Software,Apus Software,15/03/16
+118,Starbreak,"A Roguelike MMORPG with MetroidVania-style platformer 
+gameplay! Castlevania and Metroid fans will 
+love this game! ",https://www.freetogame.com/open/starbreak,MMORPG,"PC (Windows), Web Browser",Crunchy Games,Crunchy Games,10/05/16
+119,Fantasy Tales Online,"A free-to-play, retro MMO featuring puzzles, a rich crafting system and Randomly generated dungeons! ",https://www.freetogame.com/open/fantasy-tales-online,MMORPG,PC (Windows),Cold Tea Studio ,Cold Tea Studio ,06/05/16
+120,Luna Online: Reborn,"A free-to-play, anime themed fantasy MMORPG and a remake of the previous Luna MMO! ",https://www.freetogame.com/open/luna-online,MMORPG,PC (Windows),Suba Games,Suba Games,17/10/17
+121,Forza Motorsport 6: Apex,A free-to-play MMO racing game that comes from makers of one of the most popular video game racing series ever. ,https://www.freetogame.com/open/forza-motorsport-6-apex,Racing,PC (Windows),Microsoft,Turn 10,15/09/15
+124,Holodrive,"A free-to-play 2D multiplayer shooter developed by BitCake Studio and published by Versus Evil in which players play as customizable robots or ""Dummys"". ",https://www.freetogame.com/open/holodrive,Shooter,PC (Windows),Versus Evil,BitCake Studio,24/03/16
+125,Atom Universe,A free-to-play multiplayer online social Virtual World set in a theme park.,https://www.freetogame.com/open/atom-universe,Social,PC (Windows),Atom Republic,Atom Republic,27/02/16
+128,Spellweaver,"A free-to-play multiplayer online collectible card 
+game that requires deep strategic and 
+thinking.",https://www.freetogame.com/open/spellweaver,Card Game,PC (Windows),Dream Reactor,Dream Reactor,02/02/16
+134,War Trigger 3,"A MMO shooter with infantry, vehicle, and air combat across massive maps! ",https://www.freetogame.com/open/wt3,Shooter,PC (Windows),Rocketeer Games,Rocketeer Games,23/12/15
+136,VEGA Conflict,A Cross-Platform free to play 2D sci-fi strategy MMO.,https://www.freetogame.com/open/vega-conflict,Strategy,PC (Windows),KIXEYE,KIXEYE,15/12/15
+137,Metal War Online: Retribution,A high-speed multiplayer online concept car shooter game with racing elements!,https://www.freetogame.com/open/metal-war-online,Shooter,PC (Windows),GDT Limited,GDT Limited,11/12/15
+139,Immortal Empire,A free to play multiplayer strategy RPG developed by Tactic Studios.,https://www.freetogame.com/open/immortal-empire,MMORPG,PC (Windows),Tactic Studios Inc.,Tactic Studios Inc.,03/12/15
+149,America’s Army: Proving Grounds,"Take a first person shooter, have the game developed by the U.S. Army and you’ve got America’s Army.",https://www.freetogame.com/open/americas-army,Shooter,PC (Windows),U.S. Army,U.S. Army,01/10/15
+152,WARMODE,"A Free to play multiplayer online shooter. Sight in enemies to master Headshots, Double Kills and Triple Kills! ",https://www.freetogame.com/open/warmode,Shooter,PC (Windows),WARTEAM,WARTEAM,26/08/15
+154,Sphere 3: Enchanted World,A fantasy action MMORPG with a non-target combat system.,https://www.freetogame.com/open/sphere-3,MMORPG,PC (Windows),NIKITA ONLINE,NIKITA ONLINE,18/08/15
+157,Fishing Planet,A Free to play realistic online first-person multiplayer fishing simulator! ,https://www.freetogame.com/open/fishing-planet,Sports,PC (Windows),Fishing Planet LLC,Fishing Planet LLC,11/08/15
+159,Codename CURE,"A free to play 3D MMOFPS featuring cooperative play, and objective-based missions.",https://www.freetogame.com/open/codename-cure,Shooter,PC (Windows),Hoobalugalar_X,Hoobalugalar_X,18/07/15
+161,Skyforge,A impressive Free to play MMORPG where you can become a god! ,https://www.freetogame.com/open/skyforge,MMORPG,PC (Windows),Innova Co SARL,Allods Team & Obsidian Entertainment Collaboration,16/07/15
+163,Card Hunter,"A free online collectible card game which blends together role-playing, card play and tactical combat. ",https://www.freetogame.com/open/card-hunter,Card Game,"PC (Windows), Web Browser",Blue Manchu,Blue Manchu,14/07/15
+167,Salem,"A free-to-play, sandbox type MMO based on the times and trials of living.",https://www.freetogame.com/open/salem,MMORPG,PC (Windows),Mortal Moments,John Carver,19/06/15
+168,Heroes of the Storm,A free to play MOBA developed by Blizzard Entertainment.,https://www.freetogame.com/open/heroes-of-the-storm,MOBA,PC (Windows), Blizzard Entertainment, Blizzard Entertainment,02/06/15
+169,Dirty Bomb,A free-to-play first person shooter multiplayer game set in a post-apocalyptic London.,https://www.freetogame.com/open/dirty-bomb,Shooter,PC (Windows),"
+Warchest Ltd.",Splash Damage,01/06/15
+173,Block N Load,A free-to-play multiplayer online shooter game that looks like a mix of Minecraft and Team Fortress 2.,https://www.freetogame.com/open/block-n-load,Shooter,PC (Windows),Jagex,"Jagex, Artplant",30/04/15
+175,Survarium,A free to play post-apocalyptic online FPS game.,https://www.freetogame.com/open/survarium,Shooter,PC (Windows),Vostok Games,Vostok Games,02/04/15
+177,Dungeon Fighter Online,A free to play arcade-style side-scrolling action game mixed with RPG elements.,https://www.freetogame.com/open/dungeon-fighter-online,Fighting,PC (Windows),Neople,Neople (Subsidiary of Nexon),24/03/15
+179,Transformice,A cute little free-to-play MMO platformer.,https://www.freetogame.com/open/transformice,Fantasy,"PC (Windows), Web Browser",Atelier 801,Atelier 801,30/01/15
+180,Gear Up,Control your unique tank or robot in multiplayer arcade action!,https://www.freetogame.com/open/gear-up,Shooter,PC (Windows),Doctor Entertainment,Doctor Entertainment,29/01/15
+181,8BitMMO,A free to play retro­-style 2D MMO and a giant construction sandbox! ,https://www.freetogame.com/open/8bitmmo,MMORPG,"PC (Windows), Web Browser",Archive Entertainment ,Archive Entertainment ,26/01/15
+182,Dungeon Defenders 2,A free-to-play cooperative 3D tower-defense game by Trendy Entertainment.,https://www.freetogame.com/open/dungeon-defenders-2,Shooter,PC (Windows),Trendy Entertainment,Trendy Entertainment,05/12/14
+184,Blockade 3D,A free to play FPS in an editable procedural world.,https://www.freetogame.com/open/blockade-3d,Shooter,PC (Windows),Shumkov Dmitriy,Shumkov Dmitriy,05/11/14
+185,Eldevin,A indie story-driven Free to Play MMORPG.,https://www.freetogame.com/open/eldevin,MMORPG,"PC (Windows), Web Browser",Hunted Cow Studios,Hunted Cow Studios,05/11/14
+186,Double Action,A free to play FPS with bullet time and stylish kills!,https://www.freetogame.com/open/double-action,Shooter,PC (Windows),Double Action Factory ,Double Action Factory ,23/10/14
+187,Pox Nora,A multiplayer online game that combines a collectible card game with a turn-based strategy game.,https://www.freetogame.com/open/pox-nora,Card Game,PC (Windows),Desert Owl Games LLC ,Desert Owl Games LLC ,15/10/14
+188,Counter-Strike Nexon: Studio,What's better than Counter-Strike? Counter-Strike with more modes and Zombies!,https://www.freetogame.com/open/counter-strike-nexon,Shooter,PC (Windows),Nexon Europe GmbH,Nexon,07/10/14
+189,Uncharted Waters Online,A free to play adventure MMORPG set on the high seas! ,https://www.freetogame.com/open/uncharted-waters-online,MMORPG,PC (Windows),Papaya Play ,"KOEI TECMO GAMES CO., LTD. ",03/10/14
+190,Ryzom,An MMORPG where players are immersed in a massive sandbox world.,https://www.freetogame.com/open/ryzom,MMORPG,PC (Windows),Winch Gate,Nevrax,19/09/04
+192,WAKFU,"A 2D tactical turn-based fantasy MMORPG developed by Ankama Games, in conjunction with Square Enix.",https://www.freetogame.com/open/wakfu,MMORPG,PC (Windows),Ankama Games,Ankama Studio,19/09/14
+193,Infinity Wars,"A MMO trading card game, Build up your decks and customize them with tons of factional cards! ",https://www.freetogame.com/open/infinity-wars,Card Game,PC (Windows),Lightmare Studios,Lightmare Studios,05/09/14
+195,Divine Souls,A action-based MMORPG in a fantasy world with magic and technology. ,https://www.freetogame.com/open/divine-souls,MMORPG,PC (Windows),Suba Games ,GamePrix ,15/08/14
+196,Cubic Castles,A free to play 3D Platforming and a open world building game.,https://www.freetogame.com/open/cubic-castles,MMO,PC (Windows),Cosmic Cow LLC,Cosmic Cow LLC,13/08/14
+198,Creativerse,"Playful Corporation enters the sandbox, voxel world with their free-to-play title Creativers.",https://www.freetogame.com/open/creativerse,MMO,PC (Windows),Playful Corporation,Playful Corporation,12/08/14
+199,Royal Quest,"A free to play fantasy MMORPG game with unique PvPvE locations, PvP Arenas, Battlegrounds and Castle Sieges. ",https://www.freetogame.com/open/royal-quest,MMORPG,PC (Windows),1C Online Games ,Katauri ,06/08/14
+200,Guns and Robots,A free to play online third person shooter with massive customization! ,https://www.freetogame.com/open/guns-and-robots,Shooter,PC (Windows),"Masthead Studios Ltd, Thegamewallstudios, Gamigo AG",Masthead Studios Ltd,05/08/14
+203,Robocraft,A free-to-play MMO sandbox building game! ,https://www.freetogame.com/open/robocraft,MMO,PC (Windows),Freejam,Freejam,08/07/14
+204,Unturned,"A independently developed free-to-play MMO survival 
+game! ",https://www.freetogame.com/open/unturned,Shooter,PC (Windows),Smartly Dressed Games,Smartly Dressed Games,08/07/14
+205,Elsword,A Free to Play 3D side scrolling action MMORPG with many heroes.,https://www.freetogame.com/open/elsword,MMORPG,PC (Windows),KOG Games,KOG,23/03/11
+206,Aura Kingdom,Aura Kingdom is a 3D free-to-play Anime MMORPG from the same great studio that brought us Eden Eterna.,https://www.freetogame.com/open/aura-kingdom,MMORPG,PC (Windows),X-Legend,X-Legend,23/12/13
+207,Warface,"A free-to-play multiplayer online FPS from Crytek, makers of the Far Cry and Crysis series of games.",https://www.freetogame.com/open/warface,Shooter,PC (Windows),Crytek,Crytek,01/07/14
+209,Freestyle2: Street Basketball,A free to play MMO street basketball game. Team up with the best street ballers! ,https://www.freetogame.com/open/freestyle2-street-basketball,Sports,PC (Windows),Joycity,Joycity,20/06/14
+210,Fistful of Frags,A first person shooter game set in the Wild West! ,https://www.freetogame.com/open/fistful-of-frags,Shooter,PC (Windows),Fistful of Frags Team,Fistful of Frags Team,10/05/14
+211,GunZ 2: The Second Duel,A free-to-play multiplayer Third Person Shooter and follow up to the successful GunZ: The Duel. ,https://www.freetogame.com/open/gunz-2,Shooter,PC (Windows),MAIET Entertainme,MAIET Entertainme,01/05/14
+212,Brawlhalla,A free-to-play 2D platform fighter inspired by the Smash Bros.,https://www.freetogame.com/open/brawlhalla,Fighting,PC (Windows),Blue Mammoth Games,Blue Mammoth Games,03/11/15
+213,Archeblade,A free-to-play PvP-based multiplayer action game based on a Korean Fantasy Novel.,https://www.freetogame.com/open/archeblade,Fighting,PC (Windows),CodeBrush Games,CodeBrush Games,25/04/14
+214,Villagers and Heroes,A free-to-play fantasy sandbox 3D MMORPG that has plenty to offer gamers.,https://www.freetogame.com/open/villagers-and-heroes,MMORPG,PC (Windows),Mad Otter Games,Mad Otter Games,17/04/14
+215,Hex,HEX combines roleplaying aspects of a MMO with the collectible and strategic gameplay of a Trading Card Game.,https://www.freetogame.com/open/hex,Card Game,PC (Windows),"Hex Entertainment, Gameforge",Cryptozoic Entertainment,11/04/14
+217,Smite,A popular free-to-play 3D MOBA where you take on the role of an ancient god.,https://www.freetogame.com/open/smite,MOBA,PC (Windows),Hi-Rez Studios,Hi-Rez Studios,25/03/14
+220,Hearthstone: Heroes of Warcraft,"Blizzard's free-to-play collectible card game that 
+draws its inspiration from World of Warcraft. ",https://www.freetogame.com/open/hearthstone-heroes-warcraft,Card Game,PC (Windows),Blizzard Entertainment,Blizzard Entertainment,21/01/14
+221,Lucent Heart,A free to play MMORPG with a match making system that helps players find their soulmates.,https://www.freetogame.com/open/lucent-heart,MMORPG,PC (Windows),Suba Games,Playcoco (Subsidiary of Gamania),10/01/14
+222,MechWarrior Online,A free-to-play PvP game that's a faithful adaptation of the popular MechWarrior strategy board games.,https://www.freetogame.com/open/mechwarrior-online,Shooter,PC (Windows),Piranha Games Inc.,Piranha Games Inc.,10/12/15
+224,World of Warplanes,A free-to-play flight combat MMO brought to you by Wargaming.,https://www.freetogame.com/open/world-of-warplanes,Shooter,PC (Windows),Wargaming,Wargaming,12/11/13
+225,RIFT,Trion Worlds’ flagship fantasy massively multiplayer online role-playing game.,https://www.freetogame.com/open/rift,MMORPG,PC (Windows),Trion Worlds,Trion Worlds,24/10/13
+226,Path of Exile,A free-to-play massively multiplayer online ARPG in the style of Diablo.,https://www.freetogame.com/open/path-of-exile,MMORPG,PC (Windows),Grinding Gear Games,Grinding Gear Games,23/10/13
+229,Dota 2,Valve's premiere competitive free to play MOBA.,https://www.freetogame.com/open/dota-2,MOBA,PC (Windows),Valve,Valve,09/07/13
+230,Ragnarok Online 2,"A 3D fantasy MMORPG, and sequel to the popular Ragnarok Online.",https://www.freetogame.com/open/ragnarok-online-2,MMORPG,PC (Windows),Gravity Interactive,"Gravity, Inc.",01/05/13
+231,Panzar,"A free-to-play multiplayer third-person shooter with 
+rpg elements and CryEngine 3 powered 
+graphics.",https://www.freetogame.com/open/panzar,MOBA,PC (Windows),Panzar,Troxit Service,12/04/13
+232,Age of Wushu,A free-to-play martial arts action MMORPG with a large open world and sandbox-like features.,https://www.freetogame.com/open/age-of-wushu,MMORPG,PC (Windows),Snail Games,Snail Games,20/12/12
+233,Kingdom Wars,A free to play 3D MMORTS with real-time siege combat.,https://www.freetogame.com/open/kingdom-wars,Strategy,PC (Windows),"Reverie World Studios, INC","Reverie World Studios, INC",01/04/13
+234,Champions of Regnum,"A free to play, realm versus realm fantasy MMORPG.",https://www.freetogame.com/open/champions-of-regnum,MMORPG,PC (Windows),NGD Studios,NGD Studios,27/02/13
+235,Star Conflict,A free to play action-packed MMO space simulation game.,https://www.freetogame.com/open/star-conflict,Shooter,PC (Windows),Gaijin Entertainment,Star Gem Inc.,28/02/13
+239,Dogs of War Online,Based on the famous miniature board game Confrontation!,https://www.freetogame.com/open/dogs-war-online,Strategy,PC (Windows),Cyanide,Cyanide,04/02/14
+240,Epic Cards Battle,A free to play online strategic trading card game with dozens of cards and five factions. ,https://www.freetogame.com/open/epic-card-battle,Card Game,PC (Windows),momoStorm Entertainment,momoStorm,29/01/13
+241,Everquest,"A fantasy MMORPG nearly two decades in the making. In fact, it’s the game that started it all! ",https://www.freetogame.com/open/everquest,MMORPG,PC (Windows),Daybreak Games,Daybreak Games,13/12/12
+242,Mabinogi,A free-to-play adventure MMORPG where you can create a unique character and live your fantasy life.,https://www.freetogame.com/open/mabinogi,MMORPG,PC (Windows),Nexon America Inc. ,NEXON Korea Corp.,06/12/12
+243,PlanetSide 2,A free-to-play open-world FPS that pits three factions against each other in a never-ending war.,https://www.freetogame.com/open/planetside-2,Shooter,PC (Windows),Daybreak Games,Daybreak Games,21/11/12
+244,AirMech,A free to play Action RTS with MOBA elements.,https://www.freetogame.com/open/airmech,Strategy,PC (Windows),Carbon Games,Carbon Games,08/11/12
+246,Pirate 101,A free to play Pirate-themed MMORPG designed with kids in mind.,https://www.freetogame.com/open/pirate-101,MMORPG,PC (Windows),KingsIsle Entertainment,KingsIsle Entertainment,15/10/12
+248,Continent of the Ninth Seal,A free MMORPG where players take part as heroes of Glenheim to stand together against Nefer.,https://www.freetogame.com/open/c9,MMORPG,PC (Windows),Webzen,NHN Games (Acquired by Webzen),13/09/12
+249,RPG MO,A nostalgic free MMORPG reminiscent of old-school RPG's like Ultima and Runescape.,https://www.freetogame.com/open/rpg-mo,MMORPG,"PC (Windows), Web Browser",Marxnet,Marxnet,18/07/12
+251,The Lord of the Rings Online,"A free to play MMORPG set in the world of J.R.R. Tolkien's 
+classic fantasy saga.",https://www.freetogame.com/open/lotro,MMORPG,PC (Windows),Warner Bros. Interactive Entertainment,"Turbine, Inc.",24/04/01
+254,AION,"A high fantasy, free-to-play MMORPG that centers on the war between the game’s two factions: The Asmodians and the Elyos.",https://www.freetogame.com/open/aion,MMORPG,PC (Windows),NCSOFT,NCSOFT,25/11/08
+255,Stronghold Kingdoms,A strategy based building/warfare game based on the long running Strongholds PC game series.,https://www.freetogame.com/open/stronghold-kingdoms,Strategy,Web Browser,FireFly Studios,FireFly Studios,28/02/12
+256,Realm of the Mad God,A fast paced 2d free to play MMO shooter game with a retro 8-bit style.,https://www.freetogame.com/open/realm-mad-god,MMORPG,"PC (Windows), Web Browser",Kabam,Wild Shadow Studios,21/02/12
+257,Star Wars: The Old Republic,A 3D sci-fi MMORPG based on the popular Star Wars universe and brought to you by Bioware. ,https://www.freetogame.com/open/swtor,MMORPG,PC (Windows),Electronic Arts,Bioware,20/12/11
+258,APB Reloaded,A free to play 3D MMO third person shooter game brought to you by GTA creator.,https://www.freetogame.com/open/apb,Shooter,PC (Windows),Reloaded Games,Reloaded Productions,29/06/10
+260,DC Universe Online,"A free-to-play, comics based MMORPG set in the popular DC Comics universe.",https://www.freetogame.com/open/dcuo,MMORPG,PC (Windows),Daybreak Games,Daybreak Games,11/01/11
+261,No More Room in Hell,A free to play cooperative FPS survival horror mod for the Source Engine.,https://www.freetogame.com/open/no-more-room-in-hell,Shooter,PC (Windows),Lever Games,No More Room in Hell Team,31/10/11
+262,Digimon Masters Online,A free to play 3D MMORPG based on the popular Digimon franchise.,https://www.freetogame.com/open/digimon-masters-online,MMORPG,PC (Windows),MOVE ON USA CO.,"Move Games Co., Ltd.",20/10/11
+264,Dragon Nest,A free-to-play action MMORPG with non-targeting combat.,https://www.freetogame.com/open/dragon-nest,MMORPG,PC (Windows), Eyedentity Games Inc., Eyedentity Games Inc.,28/09/11
+265,9Dragons,A martial arts themed MMORPG set in China during the Ming Dynasty.,https://www.freetogame.com/open/9dragons,MMORPG,PC (Windows),Battlezone,JoongWon Games,09/05/07
+267,Mission Against Terror,A free to play fast-paced lobby-based MMOFPS with lots of game modes and tons of weapons.,https://www.freetogame.com/open/mat,Shooter,PC (Windows),Suba Games,Kingsoft,08/07/11
+268,Eden Eternal,A free to play fantasy MMORPG with cute anime-inspired graphics.,https://www.freetogame.com/open/eden-eternal,MMORPG,PC (Windows),X-Legend Entertainment,X-Legend Entertainment,10/05/23
+269,Spiral Knights,"A massively multiplayer online role-playing game, battle monsters and collect treasures!",https://www.freetogame.com/open/spiral-knights,MMORPG,PC (Windows),SEGA,Three Rings,15/06/11
+271,Asda Global,A 3D anime-inspired fantasy MMORPG and is the successor to the original Asda Story.,https://www.freetogame.com/open/asda-global,MMORPG,PC (Windows),GamenGame,Maxonsoft,19/05/11
+272,Allods Online,A fantasy MMORPG that follows more traditional “World of Warcraft-like” MMO traditions.,https://www.freetogame.com/open/allods-online,MMORPG,PC (Windows),My.com,Allods Team,26/04/11
+273,Bloodline Champions,Free-to-Play Moba game where players engage in short battles of up to ten players divided into two teams.,https://www.freetogame.com/open/bloodline-champions,MOBA,PC (Windows),Stunlock Studios,Stunlock Studios,13/01/11
+274,GetAmped 2,"A free to play fighting MMO, experience frantic battles up to 20 players.",https://www.freetogame.com/open/getamped-2,Fighting,PC (Windows),CyberStep,CyberStep,16/12/10
+275,Dragon Saga,A free to play arcade­-style side­-scrolling 3D MMORPG.,https://www.freetogame.com/open/dragon-saga,MMORPG,PC (Windows),Gravity Interactive,Gravity Interactive,28/10/10
+276,Vindictus,A free to play action MMO game with beautiful graphics and intense battles.,https://www.freetogame.com/open/vindictus,MMORPG,PC (Windows),Nexon,devCAT,13/10/10
+277,Aika Online,A free-to-play MMORPG with large scale PvP battles.,https://www.freetogame.com/open/aika-online,MMORPG,PC (Windows),HanbitSoft,JoyImpact,27/08/10
+278,Mortal Online,A unique free to play First Person sandbox MMORPG.,https://www.freetogame.com/open/mortal-online,MMORPG,PC (Windows),Star Vault AB ,Star Vault AB ,09/06/10
+280,WolfTeam,A free to play MMOFPS with a twist.,https://www.freetogame.com/open/wolfteam,Shooter,PC (Windows),Aeria Games,Softnyx,09/07/09
+281,Grand Fantasia,"A free to play anime inspired 3D MMORPG with customizable characters and 
+companions.",https://www.freetogame.com/open/grand-fantasia,MMORPG,PC (Windows),X-Legend Entertainment,X-Legend Entertainment,01/12/09
+282,BlackShot: Revolution,Get thrown into the fast-paced action of a virtual war zone and compete against other players.,https://www.freetogame.com/open/blackshot,Shooter,PC (Windows),Papaya Play,Vertigo Games,27/07/18
+286,League of Legends,"A free-to-play MOBA game, and one of the most played pc game in the world.",https://www.freetogame.com/open/league-of-legends,MOBA,PC (Windows),Riot Games,Riot Games,27/10/09
+287,Twelve Sky 2,There’s a lot of world to explore in this fantasy MMORPG!,https://www.freetogame.com/open/twelve-sky-2,MMORPG,PC (Windows),RedFox Games,SG Data,09/09/09
+288,Champions Online,A superhero MMORPG created by the same studio behind City of Heroes.,https://www.freetogame.com/open/champions-online,MMORPG,PC (Windows),Perfect World Entertainment,Cryptic Studios,01/09/09
+290,Runes of Magic,A free-to-play fantasy 3D MMORPG set in the fantasy world of Taborea.,https://www.freetogame.com/open/runes-of-magic,MMORPG,PC (Windows),GameForge,Runewalker Entertainment,19/03/09
+291,theHunter,An MMO shooter where players can hunt 22 different animals in various locations.,https://www.freetogame.com/open/thehunter,Shooter,PC (Windows),"Expansive Worlds , Avalanche Studios","Expansive Worlds , Avalanche Studios",05/03/09
+293,Atlantica Online,A free-to-play 3D tactical massively multiplayer online role-playing game.,https://www.freetogame.com/open/atlantica-online,MMORPG,PC (Windows),VALOFE,NDOORS Corporation,30/10/08
+295,Florensia,"A free to play fantasy MMORPG with legendary worlds ashore and at 
+sea.",https://www.freetogame.com/open/florensia,MMORPG,PC (Windows),Netts Corporation,Netts Corporation,15/10/08
+296,S4 league,A free to play MMO Shooter with fluid gameplay and acrobatic moves!,https://www.freetogame.com/open/s4-league,Shooter,PC (Windows),VALOFE Global,GameOn Studio,22/09/08
+297,Wizard101,A free to play MMORPG set in the magical Wizard school.,https://www.freetogame.com/open/wizard101,MMORPG,PC (Windows),KingsIsle Entertainment,KingsIsle Entertainment,02/09/08
+298,Perfect World International,"A free-to-play fantasy MMORPG, that focuses heavily on Chinese mythology.",https://www.freetogame.com/open/pwi,MMORPG,PC (Windows),"Beijing Perfect World, Perfect World Entertainment",Beijing Perfect World,02/09/08
+299,Combat Arms: Reloaded,A free to play modern first person shooter with lots of maps and weapons!,https://www.freetogame.com/open/combat-arms,Shooter,PC (Windows),"VALOFE, NEXON",Doobic Studios,31/10/18
+300,Rohan: Blood Feud,A free-to-play medieval MMORPG highly-focused on PVP.,https://www.freetogame.com/open/rohan-blood-feud,MMORPG,PC (Windows),Playwith Interactive,Playwith Interactive,28/05/08
+301,Age of Conan: Unchained,A award ­winning massively multiplayer online game that has received critical acclaim.,https://www.freetogame.com/open/age-of-conan,MMORPG,PC (Windows),Funcom,Funcom,20/05/08
+303,Saga,A free-to-play MMORTS that also features city-building and trading card games.,https://www.freetogame.com/open/saga,Strategy,PC (Windows),Silverlode Interactive,"Silverlode Interactive , Wasatch Games",26/02/08
+304,Cabal Online,A free to play fast-paced skill-based MMORPG in a stunning world!,https://www.freetogame.com/open/cabal-online,MMORPG,PC (Windows),ESTsoft,ESTsoft,17/02/16
+305,Fiesta Online,A free to play anime MMORPG with a friendly community.,https://www.freetogame.com/open/fiesta-online,MMORPG,PC (Windows),gamigo AG,Onson Soft,01/02/08
+306,4Story,"A enjoyable MMORPG where you can customize your character, join guilds and battle other factions.",https://www.freetogame.com/open/4story,MMORPG,PC (Windows),Zemi Interactive,Zemi Interactive,20/10/08
+307,Shaiya,A free to play 3D MMORPG similar to World of Warcraft and Lineage 2.,https://www.freetogame.com/open/shaiya,MMORPG,PC (Windows),Aeria Games,Aeria Games,24/12/07
+308,Angels Online,A cute anime MMORPG with a good selection of classes.,https://www.freetogame.com/open/angels-online,MMORPG,PC (Windows),I Got Games,UserJoy Technology,01/12/07
+309,Seal Online,A free MMORP that has been out for a long period of time with solid history under its belt.,https://www.freetogame.com/open/seal-online,MMORPG,PC (Windows),YNK Interactive,YNK Interactive,19/11/07
+310,Team Fortress 2,Valve's iconic class-based free-to-play first-person shooter!,https://www.freetogame.com/open/team-fortress-2,Shooter,PC (Windows),Valve,Valve,10/10/07
+311,Rumble Fighter,"A free to play Fighting MMO, test your skills!",https://www.freetogame.com/open/rumble-fighter,Fighting,PC (Windows),RedFox Games,Nimonix,02/08/07
+312,Granado Espada Online,"Adventure back to colonial times where you can find prestige, wealth, adventure, and a lot of work.",https://www.freetogame.com/open/granado-espada,MMORPG,PC (Windows),T3Fun,IMC Games Co. Limited,10/07/07
+313,Teeworlds,A free to play retro multiplayer online shooter where you can even design your own maps!,https://www.freetogame.com/open/teeworlds,Shooter,PC (Windows),Teeworlds Team ,Teeworlds Team ,27/05/07
+314,Audition Online,"A 3D rhythm MMO, Compete against other players in dance competitions.",https://www.freetogame.com/open/audition-online,Social,PC (Windows),Redbana Corporation,T3 Entertainment,02/04/07
+315,Voyage Century Online,A massive open world ship vs. ship combat game where players will take charge of their own vessel.,https://www.freetogame.com/open/voyage-century-online,MMORPG,PC (Windows),IGG,Snail Games,22/12/06
+316,Scions of Fate,A friendly free to play MMORPG with easy to pick up controls.,https://www.freetogame.com/open/scions-of-fate,MMORPG,PC (Windows),NETGAME Inc,MGAME Corporation,30/01/18
+317,Rappelz,A free to play 3D classic MMORPG with robust features.,https://www.freetogame.com/open/rappelz,MMORPG,PC (Windows),Webzen,Gala Lab,03/11/06
+319,Ace Online,A free to play fast action 3D sci-fi MMO where players control space fighters jets.,https://www.freetogame.com/open/ace-online,Shooter,PC (Windows),Suba Games,MasangSoft,29/08/08
+320,Dungeons and Dragons Online,A free-to-play MMORPG based on the beloved D&D RPG that started it all.,https://www.freetogame.com/open/dungeons-dragons-online,MMORPG,PC (Windows),Warner Bros. Interactive Entertainment,"Turbine, Inc.",28/02/06
+321,RF Online,A free to play Sci-fi MMORPG with Large-Scale PvP and fast-paced gameplay.,https://www.freetogame.com/open/rf-online,MMORPG,PC (Windows),RedFox Games,CCR Inc.,21/02/06
+322,La Tale Evolved,A 2D side-scrolling fantasy MMORPG with anime-inspired graphics.,https://www.freetogame.com/open/la-tale,MMORPG,PC (Windows),Papaya Play,Actoz Soft,17/11/17
+323,Flyff: Fly For Fun,A free-to-play anime MMORPG with charming visual aesthetic and an addictive gameplay.,https://www.freetogame.com/open/flyff,MMORPG,PC (Windows),Webzen,Gala Lab Corp (formerly Aeonsoft),25/12/05
+324,Dream of Mirror Online,A free to play fantasy MMORPG with tons of social features.,https://www.freetogame.com/open/domo,MMORPG,PC (Windows),SubaGames,SoftStar,03/09/05
+325,MapleStory,"A popular free-to-play 2D side-scrolling MMORPG with tons of quests, and a huge game world!",https://www.freetogame.com/open/maplestory,MMORPG,PC (Windows),Nexon,Wizet,11/05/05
+326,Shot Online,A free to play Golfing MMO that any golf lover will enjoy to play!,https://www.freetogame.com/open/shot-online,Sports,PC (Windows),GamesCampus,OnNet Co. Ltd.,30/11/04
+327,Everquest 2,A free to play 3D fantasy MMORPG and the sequel to EverQuest.,https://www.freetogame.com/open/everquest-2,MMORPG,PC (Windows),Daybreak Games,Daybreak Games,08/11/04
+328,Dofus,A 2D MMORPG with tons of different classes and a tactical combat system.,https://www.freetogame.com/open/dofus,MMORPG,PC (Windows),Ankama Games,Ankama Games,01/09/04
+329,Kal Online,A Korean Fantasy MMORPG developed by Inixsoft.,https://www.freetogame.com/open/kalonline,MMORPG,PC (Windows),Inisxoft,Inisxoft,11/06/04
+330,Lineage 2,A 3D fantasy MMORPG with a strong emphasis on PvP.,https://www.freetogame.com/open/lineage-2,MMORPG,PC (Windows),NCSoft,NCSoft,27/04/04
+332,Red Stone Online,A free to play 2D old school isometric MMORPG similar to Diablo.,https://www.freetogame.com/open/red-stone-online,MMORPG,PC (Windows),"L＆K CO., LTD","L＆K CO., LTD",06/10/03
+333,Metin2,A classic free to play 3D MMORPG with a retro feel.,https://www.freetogame.com/open/metin2,MMORPG,PC (Windows),Gameforge,Ymir Entertainment,17/12/06
+334,Mu Online,A free to play Dungeon Crawler game like Diablo!,https://www.freetogame.com/open/mu-online,MMORPG,PC (Windows),Webzen,Webzen,06/10/03
+335,Ragnarok Online,"A popular fantasy MMORPG, back to the golden age of MMORPGs.",https://www.freetogame.com/open/ragnarok-online,MMORPG,PC (Windows),Gravity Interactive ,Gravity Interactive ,01/06/03
+336,Anarchy Online,A free to play Sci-Fi MMO that has withstood the test of time.,https://www.freetogame.com/open/anarchy-online,MMORPG,PC (Windows),Funcom,Funcom,27/06/01
+337,Priston Tale,A free to play action-oriented fantasy MMORPG!,https://www.freetogame.com/open/priston-tale,MMORPG,PC (Windows),Suba Games,Trglow Pictures,17/05/07
+339,Tibia,"A old-school free-to-play massively multiplayer online 
+role-playing game.",https://www.freetogame.com/open/tibia,MMORPG,PC (Windows),CipSoft,CipSoft,07/01/97
+340,Game Of Thrones Winter Is Coming,A free-to-play browser-based RTS based on the George R.R. Martin novels and popular HBO series.,https://www.freetogame.com/open/game-of-thrones-winter-is-coming,Strategy,Web Browser,GTArcade,YOOZOO Games ,14/11/19
+341,League of Angels 3,"A free-to-play turn-based strategy browser game developed and published by GTArcade Entertainment, Inc.",https://www.freetogame.com/open/league-of-angels-3,MMORPG,Web Browser,GTArcade Entertainment,GTArcade Entertainment,14/08/18
+343,Dragon Awaken,"A free-to-play, browser-based fantasy RPG developed 
+by Game Hollywood and published by 
+Proficient City.",https://www.freetogame.com/open/dragon-awaken,MMORPG,Web Browser,Proficient city,Game Hollywood,03/01/17
+344,Omega Zodiac,A Greek and Norse mythology based free-to-play action MMO developed and published by Proficient City and Game Hollywood.,https://www.freetogame.com/open/omega-zodiac,MMORPG,Web Browser,Proficient City,Game Hollywood,25/08/16
+345,Forge of Empires,"A free to play 2D browser-based online strategy game, become the leader and raise your city.",https://www.freetogame.com/open/forge-of-empires,Strategy,Web Browser,InnoGames,InnoGames,17/04/12
+346,One Piece Online 2,"A free-to-play, browser-based 2D MMORPG based on the immensely popular One Piece franchise.",https://www.freetogame.com/open/one-piece-online-2,MMORPG,Web Browser,JoyGames,JoyGames,25/09/15
+347,Elvenar,A browser based city-building strategy MMO set in the fantasy world of Elvenar.,https://www.freetogame.com/open/elvenar,Strategy,Web Browser,InnoGames,InnoGames,08/04/15
+348,Bleach Online,"A free to play 2D browser based MMORPG based on Bleach, the popular manga and anime series.",https://www.freetogame.com/open/bleach-online,MMORPG,Web Browser,GoGames,GoGames,14/07/14
+349,Big Farm,A friendly browser-based farming simulation MMO game!,https://www.freetogame.com/open/big-farm,Strategy,Web Browser,GoodGame Studios,GoodGame Studios,29/10/12
+350,Goodgame Empire,A free to play medieval strategy browser game. Build you own castle and create a powerful army! ,https://www.freetogame.com/open/goodgame-empire,Strategy,Web Browser,Goodgame Studios,Goodgame Studios,14/08/11
+351,Grand Prix Racing Online,A free-to-play web-based motorsport management game.,https://www.freetogame.com/open/gpro,Strategy,Web Browser,GPRO.net,GPRO.net,01/08/06
+352,Travian,"A popular browser-based multiplayer online strategy 
+game.",https://www.freetogame.com/open/travian,Strategy,Web Browser,Travian Games,Travian Games,05/09/04
+353,Stein.world,"A free-to-play, browser-based online fantasy role 
+playing game done in an old-school 
+16-bit style.",https://www.freetogame.com/open/steinworld,MMORPG,Web Browser,PG5-Studio UG,PG5-Studio UG,24/04/19
+354,Gods Origin Online,A free-to-play browser-based RPG from VivaGames in which players take on the role of human summoners that call deities from the Astral Realm back in time. ,https://www.freetogame.com/open/gods-origin,MMORPG,Web Browser,VivaGame,VivaGame,29/08/17
+355,Chronicles of Eidola,A free-to-play 3D Browser RPG from AMZGame.,https://www.freetogame.com/open/chronicles-of-eidola,MMORPG,Web Browser,AMZ Games,AMZ Games,10/04/17
+357,Vikings: War Of Clans,A free-to-play MMO strategy game developed and published by Plarium.,https://www.freetogame.com/open/vikings-war-of-clans,Strategy,Web Browser,Plarium,Plarium,15/04/15
+365,Naruto Online,"A free-to-play MMO based on the popular anime series and manga, developed 
+by Bandai Namco Entertainment. ",https://www.freetogame.com/open/naruto-online,MMORPG,Web Browser,OAS Games,Bandai Namco,20/07/16
+370,Dragon Blood,"A free-to-play browser MMORPG from 101XP, you'll harness your unique power and the blood of dragons that flows through your veins! ",https://www.freetogame.com/open/dragon-blood,MMORPG,Web Browser,101XP,101XP,16/04/16
+371,League of Angels 2,A free to play browser MMORPG that captures all the beauty and elegance of its predecessor.,https://www.freetogame.com/open/league-angels-2,MMORPG,Web Browser,GTArcade,GTArcade,06/04/16
+373,StarColony,A free-to-play browser MMO strategy game that puts you in command of a rapidly growing city on a dangerous alien world.,https://www.freetogame.com/open/starcolony,Strategy,Web Browser,Eiyland LLC,Eiyland LLC,01/01/15
+374,Clash of Avatars,"A free to play 3D browser MMORPG with powerful Avatars, 50 mounts, 
+and several loyal pets.",https://www.freetogame.com/open/clash-of-avatars,MMORPG,Web Browser,AMZgame,AMZgame,19/01/16
+376,League of Angels,A free to play 2D browser-based fantasy MMORPG with turn-based combat.,https://www.freetogame.com/open/league-of-angels,MMORPG,Web Browser,GTArcade,Youzu Interactive,10/12/13
+380,Dark Orbit Reloaded,A browser-based 3D space-combat MMO with a massive playerbase!,https://www.freetogame.com/open/darkorbit,Shooter,Web Browser,Bigpoint,Bigpoint,11/12/06
+383,Legends of Honor,A free to play browser based medieval fantasy 2D MMORTS.,https://www.freetogame.com/open/legends-of-honor,Strategy,Web Browser,Goodgame Empire,Goodgame Studios,20/08/15
+384,Felspire,A free-to-play 2D browser-based fantasy MMORPG with plenty of dungeons and world bosses to slay.,https://www.freetogame.com/open/felspire,MMORPG,Web Browser,37Games,37Games Entertainment,07/08/15
+386,Aberoth,A free to play 8-bit MMORPG with retro graphics and MUD-like interface.,https://www.freetogame.com/open/aberoth, MMORPG,Web Browser,Jarbit,Jarbit,17/07/15
+388,Lord’s Road,A free-to-play 2D browser-based fantasy MMORPG that features two playable classes.,https://www.freetogame.com/open/lords-road,MMORPG,Web Browser,AMZGame,AMZGame,03/06/15
+391,Star Trek: Alien Domain,A free to play browser based 2D strategy MMO set in the Stark Trek universe.,https://www.freetogame.com/open/star-trek-alien-domain,Strategy,Web Browser,GameSamba,GameSamba,07/04/15
+394,One Piece Online,One Piece Online is a 2D Tower Defense Action MMO! ,https://www.freetogame.com/open/one-piece-online,MMORPG,Web Browser,JoyGames,JoyGames,22/01/15
+399,Siegelord,A free to play 2D medieval fantasy browser-based MMORTS.,https://www.freetogame.com/open/siegelord,Strategy,Web Browser,37Games Entertainment,37Games Entertainment,19/12/14
+404,Tribal Wars 2,The sequel to the classic city-building strategy game Tribal Wars! ,https://www.freetogame.com/open/tribal-wars-2,Strategy,Web Browser,InnoGames,InnoGames,02/09/14
+405,Pocket Starships,A free-to-play cross-platform space combat MMO from SPYR games.,https://www.freetogame.com/open/pocket-starships,Strategy,Web Browser,Spyr,Spyr,2014-03-00
+409,Sparta: War of Empires,A 2D browser-based MMORTS in which players must exercise their city-management skills to construct and upgrade different structures and troops.,https://www.freetogame.com/open/sparta-war-empires,Strategy,Web Browser,Plarium,Plarium,13/03/14
+411,Soldiers Inc.,A free to play 2D top-down browser based MMORTS game.,https://www.freetogame.com/open/soldiers-inc,Strategy,Web Browser,Plarium Games,Plarium Games,01/08/13
+412,Nords: Heroes of the North,"A free to play browser-based 2D strategy MMO game with Elves, Orcs, Dragons and more.",https://www.freetogame.com/open/nords-heroes-north,Strategy,Web Browser,Plarium Games,Plarium Games,01/08/13
+414,Rail Nation,A free to play 2D browser-based train simulation strategy MMO game.,https://www.freetogame.com/open/rail-nation,Strategy,Web Browser,Bright Future,Travian Games,13/01/13
+415,Stormfall: Age of War,"A free to play 2D top-down browser MMORTS featuring castle building, resource management and PvP battles.",https://www.freetogame.com/open/stormfall-age-war,Strategy,Web Browser,Plarium,Plarium,01/11/12
+416,Wartune,A 2D browser-based Strategy MMORPG with classic turn based RPG features.,https://www.freetogame.com/open/wartune,MMORPG,Web Browser,R2 Games,7Th Road,25/10/12
+417,Dino Storm,"A free-to-play 3D MMO with cowboys, dinosaurs, and laser guns.",https://www.freetogame.com/open/dino-storm,MMORPG,Web Browser,Splitscreen S.,Splits. S,12/09/12
+418,The Settlers Online,A free to play city building MMORTS based on the popular Settlers series.,https://www.freetogame.com/open/the-settlers-online,Strategy,Web Browser,Ubisoft,Blue Byte,11/09/12
+421,Therian Saga,A browser-based sandbox MMORPG with a complex crafting system.,https://www.freetogame.com/open/therian-saga,MMORPG,"PC (Windows), Web Browser",Gameforge,Virtys,27/03/17
+422,Pirates: Tides of Fortune,A free to play browser-based 2D MMORTS for people who are fans of pirates!,https://www.freetogame.com/open/pirates-tides-fortune,Strategy,Web Browser,Plarium Games,Plarium Games,12/02/12
+423,Steel Legions,A free to play 3d browser based tank game with fast-paced tactical battles! ,https://www.freetogame.com/open/steel-legions,Shooter,Web Browser,Splitscreen Studios,Splitscreen Studios,15/06/11
+424,Crystal Saga,A free to play 2D browser-based MMORPG that allows players to explore the land of Vidalia.,https://www.freetogame.com/open/crystal-saga,MMORPG,Web Browser,"Aeria, R2Games",R2Games,20/11/13
+425,Grepolis,A free to play browser-based strategy MMORTS set in Ancient Greece.,https://www.freetogame.com/open/grepolis,Strategy,Web Browser,InnoGames,InnoGames,08/12/09
+426,AdventureQuest Worlds,A free-to-play 2D fantasy browser MMORPG. There are no downloads or software to install! ,https://www.freetogame.com/open/adventurequest-worlds,MMORPG,Web Browser,Artix Entertainment,Artix Entertainment,10/10/08
+427,Drakensang Online,A free to play browser-based top-down hack-and-slash 3D MMORPG similar to games in the Diablo series.,https://www.freetogame.com/open/drakensang-online,MMORPG,Web Browser,Bigpoint,Bigpoint,08/08/11
+428,Ikariam,A free to play browser-based city-building strategy game by GameForge.,https://www.freetogame.com/open/ikariam,Strategy,Web Browser,GameForge,GameForge,31/03/08
+429,Astro Empires,A text-based sci-fi strategy and diplomacy MMO Game in a persistent universe.,https://www.freetogame.com/open/astro-empires,Strategy,Web Browser,Cybertopia,Cybertopia,20/05/06
+430,Urban Rivals,A free to play browser based card-game with a high player base and comic-book inspired world!,https://www.freetogame.com/open/urban-rivals,Card Game,Web Browser,Boostr ,Acute Mobile,17/01/06
+431,Imperia Online,"A 2D free-to-play browser-based Medieval MMORTS, Train soldiers and raise an Empire.",https://www.freetogame.com/open/imperia-online,Strategy,Web Browser,Imperia Online Ltd.,Imperia Online Ltd.,23/08/05
+432,Habbo,One of the largest and most popular Social MMO.,https://www.freetogame.com/open/habbo,Social,Web Browser,Sulake Corporation,Sulake Corporation,26/09/01
+433,RuneScape,A popular 3D browser MMORPG boasting a huge player base and 15 years of content.,https://www.freetogame.com/open/runescape,MMORPG,"PC (Windows), Web Browser",Jagex,Jagex,04/01/01
+434,Will To Live,A free-to-play MMORPG-shooter developed and published by AlphaSoft LLC.,https://www.freetogame.com/open/will-to-live,MMORPG,PC (Windows),AlphaSoft LLC,AlphaSoft LLC,05/04/18
+436,Inferna,"A cross-platform MMO from indie developer and publisher Inferna Limited, designed for players seeking a classic experience.  ",https://www.freetogame.com/open/inferna,MMORPG,PC (Windows),INFERNA LIMITED,INFERNA LIMITED,21/12/19
+437,Stay Out,An MMORPG featuring urban exploration and shooter elements.,https://www.freetogame.com/open/stay-out,Shooter,PC (Windows),Mobile Technologies LLC,Mobile Technologies LLC,27/11/19
+438,Kards,A free-to-play collectible World War II card game from developer 1939 Games.,https://www.freetogame.com/open/kards,Card Game,PC (Windows),1939 Games,1939 Games,12/04/19
+439,PC Futbol Legends,An arcade soccer game inspired by cult arcade games from IDC games. ,https://www.freetogame.com/open/futbol-legends,Sports,PC (Windows),IDG GAmes,IDG GAmes,01/11/19
+440,Vampire Empire,A multiplayer strategy game that focuses on the war between vampires and werewolves. ,https://www.freetogame.com/open/vampire-empire,Strategy,Web Browser,R2 Games,F5 Game Company,07/11/19
+441,Legends of Runeterra,A free-to-play CCG based on Riot Games' MOBA League of Legends.,https://www.freetogame.com/open/runeterra,Card Game,PC (Windows),Riot Games,Riot Games,24/01/20
+443,Ultimate Pirates,A browser-based strategy MMO published for both desktop and mobile browsers by Gameforge.  ,https://www.freetogame.com/open/ultimate-pirates,Strategy,Web Browser,Gameforge,Moonmana,02/12/19
+446,Legends of Aria,"A sandbox MMORPG featuring a skill-based system, content that will appeal to both PvE and PvP players, and a robust housing system.",https://www.freetogame.com/open/legends-of-aria,MMORPG,PC (Windows),Citadel Studios Inc,Citadel Studios Inc,07/08/19
+447,Dota Underlords,A free-to-play auto battler strategy game set in the world of Valve's Dota franchise.,https://www.freetogame.com/open/dota-underlords,Strategy,PC (Windows),Valve,Valve,21/06/19
+448,KurtzPel,A free-to-play third-person action battle game from KOG Games.,https://www.freetogame.com/open/kurtzpel,Fighting,PC (Windows),KOG,KOG,30/04/19
+449,Albion Online,A free-to-play cross-platform sandbox MMO developed and published by Sandbox Interactive GmbH. ,https://www.freetogame.com/open/albion-online,MMORPG,PC (Windows),Sandbox Interactive GmbH,Sandbox Interactive GmbH,17/07/17
+450,Battlerite Royale,A free to play battle royale set in the Battlerite universe.,https://www.freetogame.com/open/battlerite-royale,MOBA,PC (Windows),Stunlock Studios,Stunlock Studios,26/09/18
+451,Crystal Clash,A free-to-play fantasy RTS developed by Crunchy Leaf Games. ,https://www.freetogame.com/open/crystal-clash,Strategy,PC (Windows),Crunchy Leaf Games,Crunchy Leaf Games,30/08/19
+452,Call of Duty: Warzone,A standalone free-to-play battle royale and modes accessible via Call of Duty: Modern Warfare.,https://www.freetogame.com/open/call-of-duty-warzone,Shooter,PC (Windows),Activision,Infinity Ward,10/03/20
+453,Gotham City Impostors,A free to play multiplayer FPS that pits vigilantes dressed up like Batman against criminals dressed up like the Joker,https://www.freetogame.com/open/gotham-city-impostors,Shooter,PC (Windows),Warner Bros. Interactive Entertainment,"Monolith Productions, Inc.",31/08/12
+454,Magic: The Gathering Arena,A free-to-play digital recreation of Wizards of the Coast's popular collectible card game.,https://www.freetogame.com/open/mtg-arena,Card Game,PC (Windows),Wizards of the Coast,Wizards of the Coast,27/09/18
+455,Eternal Fury,A free-to-play ARPG from R2 Games!,https://www.freetogame.com/open/eternal-fury,MMORPG,Web Browser,R2 Games,R2 Games,21/05/19
+456,Conqueror's Blade,"Command your own medieval army in Conqueror's Blade, a war simulator developed by Booming games.",https://www.freetogame.com/open/conquerors-blade,Strategy,PC (Windows),Booming Games,Booming Games,30/05/19
+457,The Third Age,A free-to-play browser-based Strategy MMO game focused on story-based PvE gameplay!,https://www.freetogame.com/open/the-third-age,Strategy,Web Browser,R2 Games,R2 Games,29/04/19
+458,League of Angels - Heaven's Fury,"A free-to-play, browser-based fantasy online action RPG based loosely on Western mythology!",https://www.freetogame.com/open/league-of-angels-heavens-fury,MMORPG,Web Browser,Gtarcade,Yoozoo Games,09/01/20
+459,Bombergrounds: Battle Royale,A free-to-play massively multiplayer battle Royale game inspired by the old-shool Bomberman games!,https://www.freetogame.com/open/bombergrounds-battle-royale,Battle Royale,PC (Windows),Giant Duck Games,Giant Duck Games,07/03/20
+460,Empire: World War 3,A free-to-play browser-based action packed strategy game from the developer of Legends of Honor.,https://www.freetogame.com/open/empireww3,Strategy,Web Browser,Goodgame Studios,Goodgame Studios,28/06/18
+461,Shop Titans,A free-to-play RPG shopkeeper simulation game where you are responsible for designing and maintaining your own shop.,https://www.freetogame.com/open/shop-titans,Strategy,PC (Windows),"Kabam Games, Inc.","Kabam Games, Inc.",05/05/20
+463,Survivor Legacy,Survivor Legacy is a free-to-play zombie-themed strategy game from R2 Games.,https://www.freetogame.com/open/survivor-legacy,Strategy,Web Browser,R2 Games,GameHollywood,07/04/20
+466,Valorant,Test your mettle in Riot Games’ character-based FPS shooter Valorant.,https://www.freetogame.com/open/valorant,Shooter,PC (Windows),Riot Games,Riot Games,02/06/20
+467,Phantasy Star Online 2,"Welcome to ARKS, and elite task force searching dangerous planets for the corrupted Falspawn in Phantasy Star 2 Online, Sega’s popular, free-to-play sci-fi MMORPG.",https://www.freetogame.com/open/pso2,MMORPG,PC (Windows),SEGA,SEGA,27/05/20
+468,Firestone Idle RPG,"Set in the fantasy world of Alandria, Firestone is an idle RPG in which players are tasked with building the best possible party of heroes and using them to defeat the undead and orcs that plague the world.",https://www.freetogame.com/open/firestone-idle-rpg,Strategy,Web Browser,Holyday Studios,Holyday Studios,26/09/19
+469,Unfortunate Spacemen,"Unfortunate Spacemen is a co-op multiplayer game about Shapeshifting with a Co-op Story Mode, lots of objectives and more!",https://www.freetogame.com/open/unfortunate-spacemen,Shooter,PC (Windows),New Blood Interactive,Geoff 'Zag' Keene,12/06/20
+471,Armor Valor,Build your empire with the help of mythical heroes and well thought out strategy in R2 Games’ strategy RPG Armor Valor.,https://www.freetogame.com/open/armor-valor,Strategy,Web Browser,R2 Games,R2 Games,20/07/20
+472,Jade Goddess,"Jade Goddess is a free-to-play, browser based MMO inspired by Eastern mythology.",https://www.freetogame.com/open/jade-goddess,MMORPG,Web Browser,101XP,101XP,15/06/20
+473,Spellbreak,"Spellbreak is a multiplayer, multi-platform battle-royale where player take on the role of a “battlemage” mastering elemental magic and using spells to compete against other players.",https://www.freetogame.com/open/spellbreak,Battle Royale,PC (Windows),Proletariat,Proletariat,04/09/20
+474,Rocket League,Get your car-soccer gaming on for free with Psyonix’s Rocket League. The popular competitive multi-player game is a popular offering with over 57 million players.,https://www.freetogame.com/open/rocket-league,Sports,PC (Windows),Psyonix LLC,Psyonix LLC,24/09/20
+475,Genshin Impact,"If you’ve been looking for a game to scratch that open-world action RPG itch, one with perhaps a bit of Asian flair, then you’re going to want to check out miHoYo’s Genshin Impact.",https://www.freetogame.com/open/genshin-impact,Action RPG,PC (Windows),miHoYo,miHoYo,28/09/20
+476,Rogue Company,"From Hi-Rez Studios, the team that brought you Smite and Paladins, comes Rogue Company, a cross-platform, competitive team-based third person shooter.",https://www.freetogame.com/open/rogue-company,Shooter,PC (Windows),Hi-Rez Studios,First Watch Games,01/10/20
+477,Eternal Return: Black Survival,"Combining elements from battle royale, MOBA, and the survival genres, Eternal Return: Black Survival is a game designed with a broad audience in mind. ",https://www.freetogame.com/open/eternal-return,MOBA,PC (Windows),Nimble Neuron,Nimble Neuron,14/10/20
+479,Blood of Steel,"Blood of Steel is an online competitive strategy game featuring some of the most well-known figures throughout medieval history. Choose your general – a Crusader, Viking, Ninja or one of those from the Three Kingdoms. Build your kingdom and command armies in epic PvP battles using classic medieval warfare tactics.",https://www.freetogame.com/open/blood-of-steel,Strategy,PC (Windows),YC Games,YC Games,20/10/20
+498,Blankos Block Party,"What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!
+",https://www.freetogame.com/open/blankos,MMO,PC (Windows),Third Kind Games,Mythical Games Inc,11/12/20
+499,Slapshot: Rebound,"Do you like hockey? How about physic-based multiplayer, arcade-style sports games with cute graphics? Well, this is the one for you.",https://www.freetogame.com/open/slapshot-rebound,Sports,PC (Windows),Oddshot Games,Oddshot Games,07/12/20
+500,Chroma: Bloom And Blight,"Competitive card game fans have a new, completely free option to add to their list. ",https://www.freetogame.com/open/chroma-bloom-and-blight,Card Game,PC (Windows),WhisperGames,Clarity Games,28/01/21
+502,Primordials: Battle of Gods,Build armies and fight for control of the realm in Global Dodo Entertainment’s 1v1 strategy game Primordials: Battle of Gods. ,https://www.freetogame.com/open/primordials-battle-of-gods,Strategy,PC (Windows),Wire Games,Global Dodo Entertainment,04/03/21
+503,Artifact,"Valve’s Artifact is two games in one. Whether you’re looking for the original Dota 2 trading card game created with the help of card game designer Richard Garfield or something a little more streamlined, Artifact has both in one download.",https://www.freetogame.com/open/artifact,Card Game,PC (Windows),Valve,Valve,29/11/18
+505,Mythgard,"Rhino Games Inc.’s CCG Mythgard combines cyberpunk with the heroes, gods, and creatures of the fantasy in a modern setting to create a world where magic competes against technology for control.",https://www.freetogame.com/open/mythgard,Card Game,PC (Windows),Rhino Games Inc.,Rhino Games Inc.,18/09/19
+506,Totally Accurate Battlegrounds,"Take 60 players, throw them on a map together with over 90 weapons, including balloon crossbows, pots and pans, and inflatable hammers, add physics-based parkour and you have Landfall’s Totally Accurate Battlegrounds (TABG).",https://www.freetogame.com/open/tabg,Shooter,PC (Windows),Landfall,Landfall,06/06/18
+507,Super Mecha Champions,"Super Mecha Champions is a PC port of the mobile anime PvP game from NetEease, featuring a variety of modes but focusing on battle royale.",https://www.freetogame.com/open/super-mecha-champions,Shooter,PC (Windows),NetEase Games,NetEase Games,25/03/21
+508,Enlisted,Get ready to command your own World War II military squad in Gaijin and Darkflow Software’s MMO squad-based shooter Enlisted. ,https://www.freetogame.com/open/enlisted,Shooter,PC (Windows),Gaijin Entertainment,Darkflow Software,08/04/21
+509,Smash Legends,Classic fairy tales get wild with 5minlab and LINE Games Corporation’s brawl-action game Smash Legends.,https://www.freetogame.com/open/smash-legends,Fighting,PC (Windows),LINE Games Corporation,5minlab,13/04/21
+511,Phantasy Star Online 2 New Genesis,The legacy of Phantasy Star Online 2 continues a thousand years later!,https://www.freetogame.com/open/pso2-new-genesis,MMORPG,PC (Windows),Sega,Sega,09/06/21
+512,Sherwood Extreme,High action arcade shooter Sherwood Extreme sends players on a mission to save the kingdom!,https://www.freetogame.com/open/sherwood-extreme,Shooter,PC (Windows),CAGE Studios,CAGE Studios,12/05/21
+513,Super Squad,Prepare yourself. It’s time for Mayhem. Super Squad is a multi-player online shoot-’em-up (or MOSH)!,https://www.freetogame.com/open/super-squad,MOBA,PC (Windows),Bad Fox Studios,Bad Fox Studios,25/06/21
+515,Halo Infinite,"For the first time ever, a free-to-play Halo experience is available in the form of Halo Infinite’s multiplayer.",https://www.freetogame.com/open/halo-infinite,Shooter,PC (Windows),Xbox Game Studios,343 Industries,15/11/21
+516,PUBG: BATTLEGROUNDS,Get into the action in one of the longest running battle royale games PUBG Battlegrounds.,https://www.freetogame.com/open/pubg,Shooter,PC (Windows),"KRAFTON, Inc.","KRAFTON, Inc.",12/01/22
+517,Lost Ark,"Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",https://www.freetogame.com/open/lost-ark,ARPG,PC (Windows),Amazon Games,Smilegate RPG,11/02/22
+520,Roller Champions,"What if you could player roller derby, but in a more organized and less physically dangerous environment?",https://www.freetogame.com/open/roller-champions,Sports,PC (Windows),Ubisoft,Ubisoft,25/05/22
+521,Diablo Immortal,"Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",https://www.freetogame.com/open/diablo-immortal,MMOARPG,PC (Windows),Blizzard Entertainment,Blizzard Entertainment,02/06/22
+522,Flyff Universe,Get the full Flyff experience on any platform with the free-to-play browser-based MMORPG Flyff Universe.,https://www.freetogame.com/open/flyff-universe,MMORPG,Web Browser,Gala Lab,Gala Lab,14/06/22
+523,Fall Guys,Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. ,https://www.freetogame.com/open/fall-guys,Battle Royale,PC (Windows),Mediatonic,Mediatonic,04/08/20
+524,Temperia: Soul of Majestic,"Fans of collectible card games, are you looking for something a bit different from the normal fare? Then a peek at Moonwolf Entertainment and A2 Softworks’ Temperia: Soul of Majestic might be in order.",https://www.freetogame.com/open/temperia,Card Game,PC (Windows),Leonardo Interactive,"MoonWolf Entertainment, A2 Softworks",26/07/22
+526,Chimeraland,"Explore the open-world sandbox MMO game set in a mythical world. Play as one of a large number of races, from jelly-fish to dragon-person – or even a regular old human if that’s your thing. Explore the land, gather resources, craft items, build homes and more.",https://www.freetogame.com/open/chimeraland,MMORPG,PC (Windows),Level Infinite,Pixel soft,14/07/22
+527,Aero Tales Online,Aero Tales Online: The World is a free-to-play 3D anime-style MMORPG with PvP and PvE elements. The game revolves around the “mysterious story of the Key of Skylight”.,https://www.freetogame.com/open/aero-tales-online,MMORPG,PC (Windows),Anisage Games,Anisage Games,01/08/22
+529,Tower of Fantasy,"Tower of Fantasy is a 3D open-world RPG, anime-style sci-fi MMO RPG game with unique characters and beautiful open vistas!",https://www.freetogame.com/open/tower-of-fantasy,MMORPG,PC (Windows),Level Infinite,Hotta Studio,10/08/22
+531,Magic Spellslingers,Magic Spellslingers is the latest entry based on Witzards of the Coast’s popular card game Magic: The Gathering.,https://www.freetogame.com/open/magic-spellslingers,Card Game,PC (Windows),Wizards of the Coast LLC,"Pipeworks Studios, Seismic Games",05/08/22
+532,World of Runes,An adorable anime-style MMO featuring cute pets and collectable cards.,https://www.freetogame.com/open/world-of-runes,MMORPG,Web Browser,F5 Game Company Limited,R2 Games,13/06/22
+533,A.V.A Global,"A.V.A is a free-to-play online first-person shooter with multiple game modes, unique customizations, as well as PvP and PvE gameplay.",https://www.freetogame.com/open/ava,Shooter,PC (Windows),NEOWIZ,NEOWIZ,24/08/22
+534,Lost Light,A post-apocalyptic shooter built around creating a realistic experience.,https://www.freetogame.com/open/lost-light,Shooter,PC (Windows),NetEase Games,NetEase Games,04/08/22
+535,Mirage Online Classic,A browser-based free-to-play spiritual successor to 2001's Mirage Online.,https://www.freetogame.com/open/mirage-online-classic,MMORPG,Web Browser,Retrelon Games,Retrelon Games,24/12/19
+536,Omega Strikers,A 3v3 socccer-style game with knockouts.,https://www.freetogame.com/open/omega-strikers,Sports,PC (Windows),Odyssey Interactive,Odyssey Interactive,16/09/22
+537,Gundam Evolution,A 6v6 team-based shooter based on the Gundam multiverse,https://www.freetogame.com/open/gundam-evolution,Shooter,PC (Windows),Bandai Namco,Bandai Namco,21/09/22
+538,World War 3,A realistic multiplayer tactical FPS.,https://www.freetogame.com/open/world-war-3,Shooter,PC (Windows),"Wishlist Games, The 4 Winds Entertainment",The Farm 51,19/10/18
+540,Overwatch 2,A hero-focused first-person team shooter from Blizzard Entertainment.,https://www.freetogame.com/open/overwatch-2,Shooter,PC (Windows),Activision Blizzard,Blizzard Entertainment,04/10/22
+541,Marvel Snap,A fast paced strategy card game set in the Marvel universe.,https://www.freetogame.com/open/marvel-snap,Card Game,PC (Windows),Nuverse,"Second Dinner Studios, Inc.",18/10/22
+542,World Boss,An experimental FPS based on io and roguelike gameplay.,https://www.freetogame.com/open/world-boss,Shooter,PC (Windows),Playside,Playside,19/10/22
+543,Battle Arena Heroes Adventure,A MOBA with RPG elements.,https://www.freetogame.com/open/battle-arena-heroes-adventure,Strategy,Web Browser,Espirit Games,Espirit Games,19/03/18
+544,Galahad 3093,A 12v12 team shooter featuring mechs based on Arthurian legend.,https://www.freetogame.com/open/galahad-3093,Shooter,PC (Windows),Simutronics Corp.,Simutronics Corp.,01/09/22
+545,Fangs,A 4v4 MOBA with hero-specific strategies.,https://www.freetogame.com/open/fangs,MOBA,PC (Windows),Hidden Leaf Games,Hidden Leaf Games,30/11/22
+547,Warlander,A medieval-style combat game with a selection of modes and characters.,https://www.freetogame.com/open/warlander,MOBA,PC (Windows),Plaion,Toylogic Inc.,24/01/23
+549,Summoners War: Chronicles,A multi-platform ARPG set in the Summoners War universe.,https://www.freetogame.com/open/summoners-war-chronicles,MMORPG,PC (Windows),Com2uS,Com2uS,09/11/22
+550,"Goose, Goose, DUCK",A social deduction game with geese.,https://www.freetogame.com/open/goose-goose-duck,Strategy,PC (Windows),"Gaggle Studios, Inc.","Gaggle Studios, Inc.",03/10/21
+551,Veiled Experts,A free-to-play multiplayer shooter game focused on the search and destroy mode of classic shooters.,https://www.freetogame.com/open/veiled-experts,Shooter,PC (Windows),"Nexon Games Co., LTC",Nexon,18/05/23
+552,Jected - Rivals,A free-to-play game mixing extreme sports with destructible vehicles and a unique ejection mechanic.,https://www.freetogame.com/open/jected-rivals,Sports,PC (Windows),THQ Nordic,PowWow Entertainment,04/05/23
+554,Undawn,A free-to-play open-world survival RPG developed by LightSpeed studios and published by Level Infinite.,https://www.freetogame.com/open/undawn,Shooter,PC (Windows),Level Infinite,LightSpeed Studios,15/06/23
+556,Naraka: Bladepoint,A free-to-play melee focused battle royale.,https://www.freetogame.com/open/naraka-bladepoint,Battle Royale,PC (Windows),24 Entertainment,NetEase,13/07/23
+557,Ethyrial: Echoes of Yore,A old-school MMORPG set in a world on the brink of Civil War,https://www.freetogame.com/open/ethyrial-echoes-of-yore,MMORPG,PC (Windows), Gellyberry Studios, Gellyberry Studios,01/05/23
+558,Hawked,A free-to-play PvPvE treasure hunting shooter.,https://www.freetogame.com/open/hawked,Shooter,PC (Windows),My.Games,My.Games,03/08/23
+559,Tales Of Yore,A 2D MMORPG with lots of RPG tropes.,https://www.freetogame.com/open/tales-of-yore,MMORPG,"PC (Windows), Web Browser",Coke And Code,Coke And Code,08/08/23
+560,Palia,A cozy MMO with homebuilding and some adventure.,https://www.freetogame.com/open/palia,MMORPG,PC (Windows),Singularity Six,Singularity Six,10/08/23
+562,Waven,A free-to-play online tactical RPG from Ankama.,https://www.freetogame.com/open/waven,Strategy,PC (Windows),Ankama Studio,Ankama Games,16/08/23
+563,Kakale Online,A free-to-play top-down 2D MMORPG from developer and publisher ViVa Games.,https://www.freetogame.com/open/kakale-online,MMORPG,PC (Windows),ViVa Games,ViVa Games,01/02/20
+566,Town of Salem 2,A deduction game set in Salem.,https://www.freetogame.com/open/town-of-salem-2,Strategy,PC (Windows),BlankMediaGames LLC,BlankMediaGames LLC,25/08/23
+567,Microvolts: Recharged,A lobby-based third-person shooter with a toy-theme.,https://www.freetogame.com/open/microvolts,Shooter,PC (Windows),Masangsoft,Masangsoft,08/09/23
+568,"Warhammer 40,000: Warpforge",A free-to-play CCG set in the Warhammer 40K universe.,https://www.freetogame.com/open/warhammer-40000-warpforge,Card Game,PC (Windows),Everguild Ltd.,Everguild Ltd.,19/10/23
+569,Destiny's Divide,Free-to-play PvP Fantasy Card Game for competitive card game players.,https://www.freetogame.com/open/destinys-divide,Card Game,PC (Windows),Fobia,Fobia,03/11/23
+570,The Finals,A game-show style PvP shooter from Embark Studios.,https://www.freetogame.com/open/the-finals,Shooter,PC (Windows),Embark Studios,Embark Studios,07/12/23
+571,Infinite Borders,A free-to-play strategy game from NetEase set during China’s Three Kingdoms period.,https://www.freetogame.com/open/infinite-borders,Strategy,PC (Windows),NetEase Games,NetEase Games,22/12/23
+572,Ravendawn,A 2D top-down MMORPG featuring homesteading and building mechanics.,https://www.freetogame.com/open/ravendawn,MMORPG,PC (Windows),Tavernlight Games,Tavernlight Games,16/01/24
+573,Titan Revenge,A 3D Norse-themed browser MMORPG developed and published by Game Hollywood Games,https://www.freetogame.com/open/titan-revenge,MMORPG,Web Browser,Game Hollywood Games,Game Hollywood Games,20/12/23
+575,One Punch Man: World,A free-to-play multiplayer 3D action game from Crunchyroll Games.,https://www.freetogame.com/open/one-punch-man-world,Action Game,PC (Windows),Perfect World Games,Crunchyroll,31/01/24
+576,Battle Teams 2,A multiplayer tactical shooter with an Eastern aesthetic.,https://www.freetogame.com/open/battle-teams-2,Shooter,PC (Windows),Wizard Games Global,Wizard Games Global,31/01/24
+577,Deceit 2,A social deduction game from World Makers.,https://www.freetogame.com/open/deceit-2,Action,PC (Windows),World Makers,World Makers,14/09/23
+578,Predecessor,A free-to-play MOBA shooter developed and published by Omeda Studios.,https://www.freetogame.com/open/predecessor,MOBA,PC (Windows),Omeda Studios,Omeda Studios,28/03/24
+579,Project Apidom,A free-to-play apocalyptic extraction RPG with MOBA-like combat.,https://www.freetogame.com/open/project-apidom,MOBA,PC (Windows),"Breach.gg, RedTigerPro",Breach.gg,29/03/24
+580,Screenplay CCG,A collectible card game inspired by movie making.,https://www.freetogame.com/open/screenplay,Card Game,PC (Windows),Comico Games,Comico Games,13/05/24
+582,Tarisland,A cross-platform MMORPG developed by Level Infinite and Published by Tencent.,https://www.freetogame.com/open/tarisland,MMORPG,PC (Windows),Tencent,Level Infinite,22/06/24
+583,The First Descendant,A free-to-play third-person co-op looter shooter developed and published by Nexon.,https://www.freetogame.com/open/the-first-descendant,Shooter,PC (Windows),Nexon,"Nexon Games Co., Ltd.",02/07/24
+584,Once Human,A post-apocalyptic open-world survival game from Starry Studio.,https://www.freetogame.com/open/once-human,Shooter,PC (Windows),Starry Studio,Starry Studio,09/07/24
+585,SolForge Fusion,A card-battling game in which each card levels up and becomes more powerful.,https://www.freetogame.com/open/solforge-fusion,Card Game,PC (Windows),Stone Blade Entertainment,"Richard Garfield, Justin Gary",16/04/24
+586,Stormgate,A free-to-play science fantasy real-time strategy game in which humans and robots defend Earth from alien forces.,https://www.freetogame.com/open/stormgate,Strategy,PC (Windows),Frost Giant Studios,Frost Giant Studios,30/07/24
+587,Spectre Divide,"A 3v3 tactical shooter developed and published by Mountaintop Studios in partnership with former pro gamer shroud,",https://www.freetogame.com/open/spectre-divide,Shooter,PC (Windows),Mountaintop Studios,Mountaintop Studios,03/09/24
+588,Vigor,A free-to-play looter shooter from the developers of Operation Flashpoint and the Arma series.,https://www.freetogame.com/open/vigor,Shooter,PC (Windows),Bohemia Interactive ,Bohemia Interactive,18/09/24
+589,Sky: Children of the Light,A cozy free-to-play MMORPG from thatgamecompany.,https://www.freetogame.com/open/sky-children-of-the-light,MMORPG,PC (Windows),thatgamecompany,thatgamecompany,10/04/24
+590,Throne And Liberty,A free-to-play multi-platorm MMORPG from NCSoft and Amazon Games.,https://www.freetogame.com/open/throne-and-liberty,MMORPG,PC (Windows),Amazon Games,NCSoft,01/10/24
+591,Battle Crush,An action brawler for up to 30 players.,https://www.freetogame.com/open/battle-crush,Battle Royale,PC (Windows),NCSoft,NCSoft,27/06/24
+592,Starborne: Frontiers,A tactical autobattler set 400 years in the future.,https://www.freetogame.com/open/starborne-frontiers,Strategy,PC (Windows),Solid Clouds hf.,Solid Clouds hf.,14/10/24
+593,Return Alive,A free-to-play top-down tactical shooter.,https://www.freetogame.com/open/return-alive,Shooter,PC (Windows),KOG,KOG,23/10/24
+594,Stalcraft: X,A free-to-play MMOFPS set in an open-world.,https://www.freetogame.com/open/stalcraft-x,Shooter,PC (Windows),EXBO,EXBO,09/12/22
+595,Brighter Shores,"A point-and-click MMORPG from RuneScape's creator, Andrew Gower.",https://www.freetogame.com/open/brighter-shores,MMORPG,PC (Windows),Fen Research LTD,Fen Research LTD,06/11/24
+596,Fractured Online,A free-to-play open-world sandbox MMORPG from developer and publisher Dynamight Studios,https://www.freetogame.com/open/fractured-online,MMORPG,PC (Windows),Dynamight Studios,Dynamight Studios,24/07/24
+597,Strinova,A third-person tactical shooter that features the unique mechanic of allowing players to switch between three-dimensional and two-dimensional forms.,https://www.freetogame.com/open/strinova,Shooter,PC (Windows),iDreamSky,iDreamSky,21/11/24
+598,SUPERVIVE,"Combine MOBAs, battle royales, and hero shooters into one fast paced game hand you have SUPERVIVE.",https://www.freetogame.com/open/supervive,MOBA,PC (Windows),Theorycraft Games,Theorycraft Games,20/11/24
+599,Marvel Rivals,A free-to-play superhero team shooter from NetEase.,https://www.freetogame.com/open/marvel-rivals,Shooter,PC (Windows),NetEase,NetEase,06/12/24
+601,Delta Force,A free-to-play team-based tactical shooter.,https://www.freetogame.com/open/delta-force,Shooter,PC (Windows),TiMi Studio Group,Team Jade,04/12/24
+602,Smite 2,The free-to-play Unreal Engine 5-powered sequel to the popular third-person MOBA,https://www.freetogame.com/open/smite-2,MOBA,PC (Windows),Hi-Rez Studios,Titan Forge Games,27/08/24
+603,War Robots: Frontiers,A multiplayer mech game set in a planetary system light years from Earth.,https://www.freetogame.com/open/war-robots-frontiers,Shooter,PC (Windows),My.games,My.games,04/03/25
+604,FragPunk,A free-to-play 5v5 hero shooter that uses cards to modify matches.,https://www.freetogame.com/open/fragpunk,Shooter,PC (Windows),Bad Guitar Studio,Bad Guitar Studio,06/03/25
+605,Honkai: Star Rail,A free-to-play sci-fantasy game from HoYoVerse,https://www.freetogame.com/open/honkai-star-rail,RPG,PC (Windows),HoYoVerse,HoYoVerse,26/04/23
+606,Steel Hunters,A post-apocalyptic extraction shooter with giant mechs.,https://www.freetogame.com/open/steel-hunters,Shooter,PC (Windows),Wargaming ,Wargaming,02/04/25
+607,The Lost Glitches,A cyberpunk RPG trading card game from Honig Studios.,https://www.freetogame.com/open/the-lost-glitches,Card Game,PC (Windows),Honig Studios GmbH,Mimunga LLC,29/04/25
+608,Odin: Valhalla Rising,An open-world MMORPG based on Norse mythology.,https://www.freetogame.com/open/odin-valhalla-rising,MMORPG,PC (Windows),Kakao Games,Lionheart Studios,29/04/25
+609,Crystal Of Atlan,A magicpunk MMORPG from Nuverse.,https://www.freetogame.com/open/crystal-of-atlan,MMORPG,PC (Windows),Skystone Games,Nuverse,26/05/25
+610,Splitgate 2,A free-to-play shooter using portals.,https://www.freetogame.com/open/splitgate-2,Shooter,PC (Windows),1047 Games,1047 Games,22/05/25
+611,Mecha BREAK,A team-based third-person shooter featuring mechs.,https://www.freetogame.com/open/mecha-break,Shooter,PC (Windows),Amazing Seasun Games,Amazing Seasun Games,01/07/25
